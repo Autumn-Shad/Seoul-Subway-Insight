@@ -68,23 +68,23 @@
 
 ## 📊 프로젝트 결과
 <p align="center">
-    <img src="./result/result1.png" width=600>
+    <img src="./result/result1.png" width=800>
 </p>
 <p align="center">
-    <img src="./result/result2.png"width=600>
+    <img src="./result/result2.png"width=800>
 </p>
 <p align="center">
-    <img src="./result/result3.png"width=600>
+    <img src="./result/result3.png"width=800>
 </p>
 <p align="center">
-    <img src="./result/result4.png"width=600>
+    <img src="./result/result4.png"width=800>
 </p>
 <p align="center">
-    <img src="./result/result5.png"width=600>
+    <img src="./result/result5.png"width=800>
 </p>
 <p align="center">
-    <img src="./result/result6.png"width=600>
+    <img src="./result/result6.png"width=800>
 </p>
 <p align="center">
-    <img src="./result/result7.png"width=600>
+    <img src="./result/result7.png"width=800>
 </p>
