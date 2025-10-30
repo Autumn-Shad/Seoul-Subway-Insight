@@ -63,7 +63,7 @@
 
 ## 🌊 프로젝트 흐름도
 <p align="center">
-    <img src="./프로젝트흐름도.png" width=500>
+    <img src="./프로젝트_흐름도.png" width=600>
 </p>
 
 ## 📊 프로젝트 결과
